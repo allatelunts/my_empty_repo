@@ -1,6 +1,14 @@
 
 {
+<<<<<<< HEAD
     "nane": "Anna",
     "age":"30",
     "isadmin": "False"
 }
+=======
+    "nane": "Anna",
+    "age":"25",
+    "isadmin": "True"
+}
+
+>>>>>>> a7ebeb52230cdae651f284ce8843493f16c02776
