@@ -1,7 +1,7 @@
 
 {
-    "nane": "Anna"
-    "age":"25"
+    "name": "Anna",
+    "age":"25",
     "isadmin": "True"
 }
 
