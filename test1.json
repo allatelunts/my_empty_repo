@@ -1,3 +1,6 @@
+
 {
-    "nane": "Anna"
+    "nane": "Anna",
+    "age":"30",
+    "isadmin": "False"
 }
